@@ -1,0 +1,875 @@
+@media only screen and (max-width: 1440px) {
+  .hello h1 {
+    font-size: 3rem;
+  }
+
+  .hello p {
+    font-size: 3rem;
+  }
+  .hello span {
+    font-size: 2.8rem;
+  }
+
+  .deals {
+    height: 100vmin;
+    margin: 150px 0;
+  }
+  .onion {
+    height: 200px;
+  }
+  .htext {
+    font-size: 2.1rem;
+    margin-bottom: 10px;
+    margin: 0 10px;
+  }
+  .hdeals {
+    font-size: 3rem;
+    margin: 0 10px;
+  }
+
+  footer img {
+    margin-top: -20vmin;
+  }
+
+  .quick-check {
+    font-size: 3rem;
+  }
+
+  .news {
+    font-size: 4rem;
+  }
+
+  .footer-container {
+    margin-top: 10px;
+    padding: 10px 30px 20px 100px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  header .logo {
+    font-size: 3rem;
+  }
+
+  #menu a {
+    font-size: 2rem;
+    margin: 0 10px;
+    letter-spacing: 0.1rem;
+  }
+
+  .package img {
+    width: 70%;
+  }
+
+  .img-text1 {
+    width: 65%;
+    left: 18%;
+  }
+
+  .img-text2 {
+    width: 65%;
+    left: 18%;
+  }
+
+  .img-text3 {
+    width: 65%;
+    left: 18%;
+  }
+
+  .img-text4 {
+    width: 65%;
+    left: 18%;
+  }
+
+  .page3 {
+    margin-top: 110vh;
+  }
+
+  .selection {
+    width: 90%;
+    left: 60px;
+    font-size: 1.5rem;
+  }
+
+  .services {
+    margin-top: 20vh;
+    padding: 20px 20px;
+  }
+  .heading_sm {
+    font-size: 3rem;
+  }
+  .heading_lg {
+    font-size: 4rem;
+    padding: 20px 0;
+  }
+
+  .container-services {
+    margin-top: 50px;
+  }
+  .content-services {
+    width: 200px;
+    padding: 20px 0px;
+    margin: 0 5px;
+  }
+
+  .heading-tour {
+    font-size: 2rem;
+    margin: 8px 10px;
+  }
+  .para-tour {
+    font-size: 1.1rem;
+    padding: 8px 15px;
+    line-height: 20px;
+  }
+  .btn-tour {
+    font-size: 1.2rem;
+    padding: 5px 20px;
+  }
+
+  .heading_smpack {
+    font-size: 3rem;
+  }
+  .heading_lgpack {
+    font-size: 4rem;
+  }
+
+  .content-packages {
+    width: 200px;
+    height: auto;
+    padding: 0px 0px;
+    margin: 0 5px;
+  }
+  .img-packages {
+    margin-bottom: 10px;
+  }
+  .content-packages-container {
+    padding: 10px;
+  }
+  .detail-text {
+    font-size: 1rem;
+  }
+  .icon-detail {
+    font-size: 1rem;
+  }
+  .paris {
+    padding-right: 4px;
+  }
+  .parisD {
+    padding-left: 15px;
+    padding-right: 5px;
+  }
+  .parisP {
+    padding-left: 15px;
+    padding-right: 5px;
+  }
+  .heading-content-pack {
+    font-size: 1.5rem;
+    line-height: 25px;
+    margin: 5px 5px;
+  }
+  .rating {
+    margin-bottom: 0;
+  }
+  .rate {
+    font-size: 1.5rem;
+    padding-right: 25px;
+  }
+  .price {
+    font-size: 1.5rem;
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+
+  .deals {
+    height: 100vmin;
+    padding: 20px;
+    margin: 100px 0;
+  }
+  .onion {
+    width: 60%;
+    height: 180px;
+    padding: 10 20px;
+    line-height: 22px;
+  }
+
+  footer {
+    height: 110vh;
+    padding: 20px;
+  }
+  .footer-container {
+    margin-top: 10px;
+    padding: 15px 15px 15px 25px;
+  }
+  .column1 {
+    padding-right: 10px;
+    padding-top: 50px;
+  }
+  .footer-logo {
+    font-size: 4rem;
+  }
+  .footer-head {
+    font-size: 3.5rem;
+  }
+  footer .footer-para {
+    font-size: 1.8rem;
+    line-height: 25px;
+    width: 270px;
+  }
+  .head-sm-footer {
+    font-size: 2.2rem;
+    padding-top: 80px;
+  }
+  .fa-facebook {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+  .fa-square-snapchat {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+  .fa-whatsapp {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+  .fa-instagram {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+  .fa-linkedin {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+  .fa-youtube {
+    padding-right: 15px;
+    font-size: 2.7rem;
+  }
+
+  footer img {
+    margin-top: -35vmin;
+    margin-left: 0vmin;
+  }
+  .col3-top {
+    font-size: 2.7rem;
+    padding-top: 40px;
+  }
+  .app-link1 {
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header .logo {
+    margin-right: auto;
+    font-size: 2.5rem;
+  }
+  .contact {
+    font-size: 2rem;
+  }
+  #navbar button {
+    margin-right: 25px;
+  }
+  .escape h1 {
+    font-size: 5rem;
+  }
+
+  .content .display-4 {
+    font-size: 3.5rem;
+  }
+  .content p {
+    font-size: 2rem;
+  }
+
+  .package img {
+    width: 100%;
+  }
+
+  .img-text1 {
+    width: 85%;
+    left: 8%;
+    height: 70%;
+    top: 25%;
+    padding-top: 30px;
+  }
+  .img-text2 {
+    width: 85%;
+    left: 8%;
+    height: 70%;
+    top: 25%;
+    padding-top: 30px;
+  }
+  .img-text3 {
+    width: 85%;
+    left: 8%;
+    height: 70%;
+    top: 25%;
+    padding-top: 30px;
+  }
+  .img-text4 {
+    width: 85%;
+    left: 8%;
+    height: 70%;
+    top: 25%;
+    padding-top: 30px;
+  }
+
+  .selection {
+    width: 95%;
+    left: 15px;
+    font-size: 1.2rem;
+  }
+  .page3-heading {
+    font-size: 4rem;
+  }
+
+  .page3-lg-dream {
+    font-size: 6rem;
+  }
+
+  .btn-page3 {
+    padding: 5px 25px;
+    font-size: 2rem;
+  }
+  .btn-page3pic1 {
+    padding: 5px 25px;
+    font-size: 2rem;
+  }
+
+  .services {
+    padding: 35px 130px;
+  }
+  .content-services {
+    margin: 10px 15px;
+  }
+
+  .packages {
+    padding: 35px 130px;
+  }
+  .content-packages {
+    margin: 10px 15px;
+  }
+
+  .deals {
+    height: 90vmin;
+    padding: 0px;
+    margin: 120px 0;
+  }
+  .onion {
+    width: 60%;
+    height: 180px;
+    padding: 0 20px;
+    line-height: 22px;
+  }
+  .fa-snowflake {
+    font-size: 2.5rem;
+  }
+  .fa-bicycle {
+    font-size: 2.5rem;
+  }
+  .fa-umbrella {
+    font-size: 2.5rem;
+  }
+  .fa-poo-storm {
+    font-size: 2.5rem;
+  }
+  .fa-car-side {
+    font-size: 2.5rem;
+  }
+  .fa-chair {
+    font-size: 2.5rem;
+  }
+  .fa-gift {
+    font-size: 2.5rem;
+  }
+  .fa-glasses {
+    font-size: 2.5rem;
+  }
+  .fa-wheat-awn {
+    font-size: 2.5rem;
+  }
+  .fa-hippo {
+    font-size: 2.5rem;
+  }
+  .fa-tree {
+    font-size: 2.5rem;
+  }
+  .fa-feather {
+    font-size: 2.5rem;
+  }
+
+  .hdeals {
+    font-size: 2.5rem;
+    margin: 5px 5px 0 5px;
+  }
+  .htext {
+    font-size: 1.5rem;
+    margin: 5px 5px 15px 5px;
+  }
+  .c {
+    color: #fff;
+    width: 20%;
+    margin: 0 0;
+  }
+
+  footer {
+    height: 100vh;
+    padding: 15px;
+  }
+  .footer-container {
+    margin-top: 10px;
+    padding: 15px 15px 15px 25px;
+  }
+  .column1 {
+    padding-right: 10px;
+    padding-top: 50px;
+  }
+  .footer-logo {
+    font-size: 3rem;
+  }
+  .footer-head {
+    font-size: 3rem;
+  }
+  footer .footer-para {
+    width: 210px;
+  }
+  .head-sm-footer {
+    font-size: 2.2rem;
+    padding-top: 50px;
+  }
+  .fa-facebook {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+  .fa-square-snapchat {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+  .fa-whatsapp {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+  .fa-instagram {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+  .fa-linkedin {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+  .fa-youtube {
+    padding-right: 10px;
+    font-size: 1.7rem;
+  }
+
+  .quick-check {
+    font-size: 2.7rem;
+  }
+  .news {
+    font-size: 3rem;
+  }
+  .updated {
+    font-size: 2.5rem;
+    padding: 10px 0;
+  }
+  footer input {
+    height: 3em;
+  }
+
+  footer input::placeholder {
+    font-size: 2rem;
+  }
+  footer .col i {
+    font-size: 2rem;
+    padding: 0.05em 0.3em;
+  }
+
+  footer img {
+    border-radius: 100px;
+    margin-top: -15vmin;
+    margin-left: 15vmin;
+    width: 70%;
+    height: 70%;
+  }
+
+  .col3-top {
+    font-size: 2.5rem;
+    padding-top: 15px;
+  }
+  .col3-head {
+    font-size: 4rem;
+  }
+  .col3-head .fa-spider {
+    padding: 5px;
+  }
+  .col3-head span {
+    font-size: 4rem;
+  }
+  .col3-head i {
+    font-size: 4rem;
+  }
+
+  .col3-text {
+    font-size: 3rem;
+    margin-top: -20px;
+  }
+
+  .app-link1 {
+    margin-left: 20px;
+  }
+  .app-store {
+    font-size: 1rem;
+  }
+  .app-store span {
+    font-size: 1.5rem;
+  }
+  .play-icon {
+    font-size: 3.5rem;
+    width: 170px;
+    height: 55px;
+    padding: 0 10px;
+  }
+
+  .apple-icon {
+    font-size: 3.5rem;
+    width: 170px;
+    height: 55px;
+    padding: 0 10px;
+  }
+  .play-store {
+    font-size: 1rem;
+  }
+  .play-store span {
+    font-size: 1.5rem;
+  }
+  .last-line p {
+    font-size: 1.5rem;
+  }
+  .last-line p span {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  section .escape {
+    padding-top: 25rem;
+  }
+  .escape h1 {
+    font-size: 5rem;
+  }
+
+  .page3 {
+    margin-top: 340vh;
+  }
+
+  .selection {
+    width: 70%;
+    height: 43vh;
+    padding: 15px 20px;
+    top: -175px;
+    left: 70px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+  }
+
+  .selection_container {
+    width: 100%;
+    height: 100%;
+    display: block;
+    top: 20px;
+    bottom: 20px;
+  }
+
+  .boxes {
+    padding: 10px 15px;
+    width: 240px;
+    margin: 10px 10px;
+  }
+  .select-btn {
+    margin-top: 10px;
+  }
+
+  .services {
+    margin-top: 15vh;
+    padding: 20px 50px;
+  }
+  .heading_sm {
+    font-size: 2rem;
+  }
+  .heading_lg {
+    font-size: 2.5rem;
+  }
+
+  .packages {
+    margin-top: 10vh;
+    padding: 35px 50px;
+  }
+  .content-services {
+    margin: 15px 30px 15px 50px;
+  }
+  .heading_smpack {
+    font-size: 2rem;
+  }
+  .heading_lgpack {
+    font-size: 2.5 rem;
+  }
+
+  .container-packages {
+    margin-top: 70px;
+  }
+  .content-packages {
+    width: 250px;
+    margin: 15px 30px 15px 30px;
+  }
+  .detail-text {
+    font-size: 1.2rem;
+  }
+  .icon-detail {
+    font-size: 1.5rem;
+  }
+  .paris {
+    padding-right: 5px;
+  }
+  .parisD {
+    padding-left: 20px;
+    padding-right: 5px;
+  }
+  .parisP {
+    padding-left: 20px;
+    padding-right: 5px;
+  }
+  .heading-content-pack {
+    font-size: 1.6rem;
+    line-height: 25px;
+    margin: 5px 5px;
+  }
+  .rating {
+    margin-bottom: 20px;
+  }
+  .rate {
+    font-size: 1.6rem;
+    padding-right: 40px;
+  }
+  .price {
+    font-size: 1.6rem;
+    padding-left: 30px;
+  }
+
+  .deals {
+    height: 230vmin;
+    padding: 50px 20px;
+    margin: 150px 0;
+  }
+
+  .onion {
+    height: 150px;
+    padding: 0 0;
+    line-height: 20px;
+  }
+  .fa-snowflake {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-bicycle {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-umbrella {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-poo-storm {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-car-side {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-chair {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-gift {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-glasses {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-wheat-awn {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-hippo {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-tree {
+    font-size: 2rem;
+    padding: 10px;
+  }
+  .fa-feather {
+    font-size: 2rem;
+    padding: 10px;
+  }
+
+  .hdeals {
+    font-size: 1.7rem;
+    margin: 0 0 0 0;
+  }
+  .htext {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    margin: 0px 10px 0px 5px;
+  }
+
+  footer {
+    height: 210vh;
+    padding: 24px;
+  }
+  .footer-container {
+    margin-top: 0px;
+    padding: 20px 20px 20px 20px;
+  }
+  .column1 {
+    padding-right: 0px;
+  }
+  .footer-logo {
+    font-size: 3.5rem;
+  }
+  .footer-head {
+    font-size: 3.5rem;
+  }
+  footer .footer-para {
+    font-size: 1.7rem;
+    line-height: 30px;
+    width: 350px;
+  }
+  .head-sm-footer {
+    padding: 10px 0;
+    font-size: 2rem;
+  }
+  /* .social-link {
+    padding: 20px; */
+  /* } */
+  .fa-facebook {
+    padding-right: 30px;
+    font-size: 2.5rem;
+  }
+  .fa-square-snapchat {
+    padding-right: 25px;
+    font-size: 2.5rem;
+  }
+  .fa-whatsapp {
+    padding-right: 25px;
+    font-size: 2.5rem;
+  }
+  .fa-instagram {
+    padding-right: 25px;
+    font-size: 2.5rem;
+  }
+  .fa-linkedin {
+    padding: 10px;
+    font-size: 2.5rem;
+  }
+  .fa-youtube {
+    padding: 10px;
+    font-size: 2.5rem;
+  }
+
+  .quick-check {
+    padding: 30px 4px 20px 4px;
+    font-size: 2.7rem;
+  }
+
+  .news {
+    font-size: 3rem;
+  }
+  .updated {
+    font-size: 2.7rem;
+    padding: 10px 0;
+  }
+  footer input {
+    height: 3.5em;
+  }
+  footer input::placeholder {
+    font-size: 2rem;
+  }
+  footer .col i {
+    font-size: 2.5rem;
+    font-weight: 800;
+    padding: 0.07em 0.4em;
+  }
+
+  footer img {
+    margin-top: -390vmin;
+    margin-left: 50vmin;
+    width: 50%;
+    height: 50%;
+  }
+
+  .col3-top {
+    font-size: 2.5rem;
+    padding-top: 10px;
+  }
+  .col3-head {
+    font-size: 4rem;
+  }
+  .col3-head .fa-spider {
+    font-size: 4.5rem;
+  }
+  .col3-head span {
+    font-size: 4rem;
+  }
+  .col3-head i {
+    font-size: 4rem;
+  }
+
+  .col3-text {
+    font-size: 2.5rem;
+    margin-top: -40px;
+  }
+
+  .app-link1 {
+    margin-left: 50px;
+  }
+  .app-store {
+    font-size: 1.1rem;
+  }
+  .app-store span {
+    font-size: 1.8rem;
+  }
+  .play-icon {
+    font-size: 4rem;
+    margin-top: 30px;
+    width: 200px;
+    height: 55px;
+    padding: 0 10px;
+  }
+
+  .apple-icon {
+    font-size: 4rem;
+    margin-top: 20px;
+    width: 200px;
+    height: 55px;
+    padding: 0 10px;
+  }
+  .play-store {
+    font-size: 1.1rem;
+  }
+  .play-store span {
+    font-size: 1.8rem;
+  }
+
+  .d {
+    margin-top: 20px;
+  }
+  .last-line p {
+    font-size: 1.5rem;
+  }
+  .last-line p span {
+    font-size: 1.8rem;
+  }
+
+  @media only screen and (max-width: 1440px) {
+  }
+}
